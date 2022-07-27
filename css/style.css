@@ -1,0 +1,57 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* navbar section */
+
+.brand{
+    font-weight: 600;
+    font-size: 40px;
+    color: #4A4A4A;
+}
+
+.nav-link{
+    font-weight: 400;
+    font-size: 18px;
+    color: #777777;
+    transition: 0.3s ease;
+}
+.nav-link:hover{
+    color: #289BDE;
+}
+
+/* carousle section */
+
+.overlay{
+    background: #000000b5;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.carousel-caption{
+    bottom:15% !important;
+}
+.carousel-caption h5{
+    font-size: 65px;
+    font-weight: 600;
+}
+.carousel-caption p{
+    font-weight: 400;
+    font-size: 18px;
+    color: #F4F4F4;
+}
+.carousel-caption a{
+    background: #289BDE;
+    padding: 20px 55px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    transition: 00.3s ease;
+}
+.carousel-caption a:hover{
+    background: #E9F5FB;
+}
