@@ -20,6 +20,14 @@ body{
     color: #777777;
 }
 
+.custom-btn-white{
+    background: #FFf !important;
+    color: #289BDE !important;
+}
+.bg-join{
+    background: #289BDE;
+    border-radius: 10px;
+}
 /* navbar section */
 
 .brand{
