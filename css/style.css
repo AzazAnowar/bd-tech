@@ -107,6 +107,21 @@ body{
     color: #777777;
 }
 
+/* accordion style */
+.accordion-item {
+    border: none !important;
+}
+.accordion-header button{
+    font-weight: 600;
+    font-size: 20px;
+    color: #4A4A4A;
+}
+.accordion-body{
+    font-weight: 400;
+    font-size: 16px;
+    color: #777777;
+}
+
 /* footer section start */
 footer{
     background: #161616;
