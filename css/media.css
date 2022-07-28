@@ -6,7 +6,7 @@
     .carousel-caption {
         bottom: 10% !important;
     }
-    .carousel-caption h5{
+    .carousel-caption h5, .explore-heading, .feedback-content h1, .footer-content h1{
         font-size: 20px;
         font-weight: 400;
     }
@@ -22,6 +22,11 @@
     /* courses card */
     .width-mb{
         width: 100%;
+    }
+    /* footer  */
+    .footer-icons span {
+        font-size: 18px;
+        margin: 10px 10px;
     }
  }
 
@@ -33,7 +38,7 @@
     .carousel-caption {
         bottom: 10% !important;
     }
-    .carousel-caption h5{
+    .carousel-caption h5, .explore-heading, .feedback-content h1, .footer-content h1{
         font-size: 20px;
         font-weight: 400;
     }
@@ -50,6 +55,11 @@
     .width-mb{
         width: 100%;
     }
+    /* footer  */
+    .footer-icons span {
+        font-size: 18px;
+        margin: 10px 10px;
+    }
 }
 
 /* Medium devices (tablets, less than 992px) */
@@ -57,7 +67,7 @@
     .carousel-caption {
         bottom: 10% !important;
     }
-    .carousel-caption h5{
+    .carousel-caption h5, .explore-heading, .feedback-content h1, .footer-content h1{
         font-size: 35px;
     }
     .carousel-caption p{
