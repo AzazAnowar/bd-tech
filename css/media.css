@@ -6,7 +6,7 @@
     .carousel-caption {
         bottom: 10% !important;
     }
-    .carousel-caption h5, .explore-heading, .feedback-content h1, .footer-content h1{
+    .carousel-caption h5, .explore-heading, .feedback-content h1{
         font-size: 20px;
         font-weight: 400;
     }
@@ -27,6 +27,9 @@
     .footer-icons span {
         font-size: 18px;
         margin: 10px 10px;
+    }
+    .section-header{
+        font-size: 20px;
     }
  }
 
@@ -38,7 +41,7 @@
     .carousel-caption {
         bottom: 10% !important;
     }
-    .carousel-caption h5, .explore-heading, .feedback-content h1, .footer-content h1{
+    .carousel-caption h5, .explore-heading, .feedback-content h1{
         font-size: 20px;
         font-weight: 400;
     }
@@ -60,6 +63,9 @@
         font-size: 18px;
         margin: 10px 10px;
     }
+    .section-header{
+        font-size: 20px;
+    }
 }
 
 /* Medium devices (tablets, less than 992px) */
@@ -67,7 +73,7 @@
     .carousel-caption {
         bottom: 10% !important;
     }
-    .carousel-caption h5, .explore-heading, .feedback-content h1, .footer-content h1{
+    .carousel-caption h5, .explore-heading, .feedback-content h1{
         font-size: 35px;
     }
     .carousel-caption p{
@@ -76,11 +82,7 @@
     .custom-btn, .carousel-caption a{
         font-size: 20px;
     }
+    .section-header{
+        font-size: 30px;
+    }
 }
-
-/* Large devices (desktops, less than 1200px) */
-@media (min-width:992px) and (max-width: 1199.98px) { }
-
- /* X-Large devices (large desktops, less than 1400px) */
-@media (min-width:1200px) and (max-width: 1399.98px) {} 
-

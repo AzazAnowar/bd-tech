@@ -28,6 +28,17 @@ body{
     background: #289BDE;
     border-radius: 10px;
 }
+
+.section-header{
+    font-weight: 600;
+    font-size: 45px;
+    color: #1D1D1D;
+}
+.section-intro{
+    font-weight: 400;
+    font-size: 16px;
+    color: #777777;
+}
 /* navbar section */
 
 .brand{
@@ -133,14 +144,6 @@ body{
 /* footer section start */
 footer{
     background: #161616;
-}
-.footer-content h1{
-    font-weight: 600;
-    font-size: 40px;
-}
-.footer-content p{
-    font-weight: 400;
-    font-size: 16px;
 }
 .footer-icons span{
     background: #242424;
