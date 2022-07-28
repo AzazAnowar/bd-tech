@@ -5,6 +5,20 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* common classes */
+
+.custom-btn{
+    background: #289BDE;
+    padding: 20px 55px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    transition: 00.3s ease;
+}
+.custom-btn:hover{
+    background: #E9F5FB;
+    color: #777777;
+}
 
 /* navbar section */
 
@@ -54,4 +68,21 @@ body{
 }
 .carousel-caption a:hover{
     background: #E9F5FB;
+}
+
+/* cards section */
+.card-title-h5{
+    font-weight: 600;
+    font-size: 25px;
+    color: #4A4A4A;
+}
+.card-text-p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #777777;
+}
+.card-text-price{
+    font-weight: 600;
+    font-size: 18px;
+    color: #289BDE;
 }
