@@ -86,3 +86,23 @@ body{
     font-size: 18px;
     color: #289BDE;
 }
+
+/* exploring section */
+.card-bg{
+    background: #F4FAFD;
+}
+.explore-heading, .feedback-content h1{
+    font-weight: 600;
+    font-size: 45px;
+    color: #1D1D1D;
+} 
+.explore-text{
+    font-weight: 400;
+    font-size: 16px;
+    color: #777777;
+}
+.feedback-content p{
+    font-weight: 500;
+    font-size: 20px;
+    color: #777777;
+}
